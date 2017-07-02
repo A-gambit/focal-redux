@@ -2,6 +2,7 @@ test
 src
 example
 
+.vscode
 rollup.config.js
 .travis.yml
 
