@@ -2,7 +2,7 @@
 
 
 [![npm Version](https://img.shields.io/npm/v/focal-redux.svg)](https://www.npmjs.com/package/focal-redux) ![License](https://img.shields.io/npm/l/focal-redux.svg)
-[![Build Status](https://travis-ci.org/grammarly/focal-redux.svg?branch=master)](https://travis-ci.org/grammarly/focal-redux)
+[![Build Status](https://travis-ci.org/A-gambit/focal-redux.svg?branch=master)](https://travis-ci.org/A-gambit/focal-redux)
 
 `Focal-Redux` allows you to use all the power of [Focal](https://github.com/grammarly/focal) in a Redux application.
 It helps you to implement Focal's `Atom` in the Redux application by simplifying the code refactoring when you want to switch from Redux to Focal.
