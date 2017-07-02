@@ -1,0 +1,11 @@
+test
+src
+example
+
+rollup.config.js
+.travis.yml
+
+.gitignore
+
+.tslint.json
+.tsconfig.json

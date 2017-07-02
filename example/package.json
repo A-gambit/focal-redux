@@ -1,0 +1,33 @@
+{
+  "name": "focal-redux-github-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@grammarly/focal": "^0.4.400",
+    "@types/node": "^7.0.31",
+    "@types/react": "15.0.0",
+    "@types/react-dom": "0.14.20",
+    "@types/react-redux": "4.4.43",
+    "@types/redux": "3.6.0",
+    "@types/redux-devtools-extension": "^2.13.2",
+    "@types/redux-logger": "^3.0.0",
+    "@types/redux-thunk": "^2.1.0",
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "react-redux": "5.0.5",
+    "redux": "3.6.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "styled-components": "2.0.1",
+    "typescript": "2.3.4",
+    "focal-redux": "file:../"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build"
+  }
+}
